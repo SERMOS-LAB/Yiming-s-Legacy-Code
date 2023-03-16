@@ -2,7 +2,7 @@
 ## Activity Location Inference Algorithm
 To be added...
 
-## Home Inference Algorithm
+## Proxy Home Location Inference
 To be added...
 
 ## Gravy Data Check
