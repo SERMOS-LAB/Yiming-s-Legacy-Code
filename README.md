@@ -1,9 +1,11 @@
 # Yiming's Legacy Code
 ## Activity Location Inference Algorithm
-To be added...
+- Read GPS location data
+- Infer activity location using incremental clustering
 
 ## Proxy Home Location Inference
-To be added...
+- Read GPS location data
+- Infer proxy home location
 
 ## Gravy Data Check
 - Read .gz file
